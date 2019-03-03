@@ -1,2 +1,2 @@
-# Sample-Project
+# SampleProject
 Java Full Stack Program
